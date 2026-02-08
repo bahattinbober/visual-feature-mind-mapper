@@ -3,8 +3,8 @@ Visual Feature Mind-Mapper
 A visual mind-mapping web application that allows users to create, connect, organize, and explore ideas through draggable nodes and curved connections.
 Designed to demonstrate interactive UI development, state management, and graph-based thinking using modern frontend technologies.
 
-🔗 Live Demo:( )
-📦 Source Code:( )
+🔗 Live Demo:(https://mind-mapper-app.vercel.app )
+📦 Source Code:(https://github.com/bahattinbober/visual-feature-mind-mapper )
 
 
 Key Highlights (Recruiter Summary)
